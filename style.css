@@ -1,0 +1,20 @@
+table, th, td {
+    border: 1px solid rgb(255, 255, 255);
+    color: white;
+  }
+  .box ul{
+      font-size:20px
+  }
+  .box1{
+      position:absolute;
+      top:77%;
+      height:auto;
+      left: 75%;
+  }
+  .box1 h3{
+      padding-left: 7%;
+  }
+  .box1 ul li{
+      text-align: right;
+      list-style-position: inside;
+  }
